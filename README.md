@@ -1,5 +1,5 @@
-# awesome-neumorphism
-A curated list of awesome Neumorphism resources.
+# Awesome Neumorphism
+Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 
 # Status
 WIP
