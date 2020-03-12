@@ -1,6 +1,16 @@
 # Awesome Neumorphism
 Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 
+### UI Component Libraries
+* [React Neumorphism-ui](https://github.com/usamamoinakhter/Neumorphism-ui)
+* [neumorphic-ui](https://github.com/dev-saeed/neumorphic-ui)
+* [Neumorphism with Expo](https://expo-neumorphism.calebnance.now.sh/)
+* [react-native-neu-element](https://github.com/Jamyth/react-native-neu-element)
+
+### CSS UI Libraries
+* [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
+* [Neumorphism UI Kit](https://codepen.io/drovosek2703/pen/VwYRZrM)
+
 ### UI Kits
 * [Neumorphism UI kit for Figma](https://www.behance.net/gallery/92714821/FREE-Neumorphism-UI-kit-for-Figma)
 * [Dashboard Interface Elements](https://dribbble.com/shots/10143929-Freebie-Dashboard-Interface-Elements)
@@ -13,6 +23,10 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Neumorphic or Skeuomorphic Finance App Design Free Download](https://dribbble.com/shots/9766967-Neumorphic-or-Skeuomorphic-Finance-App-Design-Free-Download)
 * [Free Neumorphism UI kit](https://dribbble.com/shots/9784221-Free-Neumorphism-UI-kit)
 * [Skeumorphism UI elements for adobe xd](https://dribbble.com/shots/9633426-Skeumorphism-UI-elements-for-adobe-xd)
+
+### Neumorphism Shadow Generator
+* [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
+* [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows)
 
 # Status
 WIP
