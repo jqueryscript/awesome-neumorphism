@@ -28,5 +28,12 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
 * [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows)
 
-# Status
-WIP
+### Neumorphism For Swift
+* [EMTNeumorphicView](https://github.com/hirokimu/EMTNeumorphicView)
+* [MHSoftUI](https://github.com/mumty13/MHSoftUI)
+
+### More Resources
+* [Best Neumorphic Design Freebies](https://365webresources.com/neumorphic-neumorphism-design-freebies/)
+* [Neumorphism Dribbble](https://dribbble.com/tags/neumorphism)
+
+
