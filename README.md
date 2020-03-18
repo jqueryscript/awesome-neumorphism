@@ -10,6 +10,8 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 ### CSS UI Libraries
 * [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
 * [Neumorphism UI Kit](https://codepen.io/drovosek2703/pen/VwYRZrM)
+* [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
+* [Neomorph UI Kit](https://codepen.io/miocene/pen/oNNOmza)
 
 ### UI Kits
 * [Neumorphism UI kit for Figma](https://www.behance.net/gallery/92714821/FREE-Neumorphism-UI-kit-for-Figma)
@@ -23,6 +25,8 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Neumorphic or Skeuomorphic Finance App Design Free Download](https://dribbble.com/shots/9766967-Neumorphic-or-Skeuomorphic-Finance-App-Design-Free-Download)
 * [Free Neumorphism UI kit](https://dribbble.com/shots/9784221-Free-Neumorphism-UI-kit)
 * [Skeumorphism UI elements for adobe xd](https://dribbble.com/shots/9633426-Skeumorphism-UI-elements-for-adobe-xd)
+* [Dark Neomorphic UI Kit](https://www.behance.net/gallery/92605077/Dark-Neomorphic-UI-Kit-for-Adobe-Xd)
+* [Neumorphism UI kit](https://www.danielmitev.com/neumorphism-design-kit)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
@@ -31,6 +35,9 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 ### Neumorphism For Swift
 * [EMTNeumorphicView](https://github.com/hirokimu/EMTNeumorphicView)
 * [MHSoftUI](https://github.com/mumty13/MHSoftUI)
+
+### Others
+* [Neumorphism Free Icon Set](https://agentestudio.com/blog/neumorphism-icon-set)
 
 ### More Resources
 * [Best Neumorphic Design Freebies](https://365webresources.com/neumorphic-neumorphism-design-freebies/)
