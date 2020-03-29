@@ -11,6 +11,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
 * [Neumorphism UI Kit](https://codepen.io/drovosek2703/pen/VwYRZrM)
 * [Neumorphic Elements](https://codepen.io/myacode/pen/PoqQQNM)
+* [Skeuos CSS library](https://www.cssscript.com/neumorphism-ui-skeuos/)
 * [Neomorph UI Kit](https://codepen.io/miocene/pen/oNNOmza)
 
 ### UI Kits
@@ -27,6 +28,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Skeumorphism UI elements for adobe xd](https://dribbble.com/shots/9633426-Skeumorphism-UI-elements-for-adobe-xd)
 * [Dark Neomorphic UI Kit](https://www.behance.net/gallery/92605077/Dark-Neomorphic-UI-Kit-for-Adobe-Xd)
 * [Neumorphism UI kit](https://www.danielmitev.com/neumorphism-design-kit)
+* [Free Neomorphic UI Kit for Adobe Xd](https://www.behance.net/gallery/93347841/Free-Neomorphic-UI-Kit-for-Adobe-Xd)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
@@ -36,8 +38,9 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [EMTNeumorphicView](https://github.com/hirokimu/EMTNeumorphicView)
 * [MHSoftUI](https://github.com/mumty13/MHSoftUI)
 
-### Others
+### Neumorphism Icons
 * [Neumorphism Free Icon Set](https://agentestudio.com/blog/neumorphism-icon-set)
+* [Neomorphism Emoji Icons](https://codepen.io/Partical/full/PoqBYdx)
 
 ### More Resources
 * [Best Neumorphic Design Freebies](https://365webresources.com/neumorphic-neumorphism-design-freebies/)
