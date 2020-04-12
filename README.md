@@ -30,6 +30,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Neumorphism UI kit](https://www.danielmitev.com/neumorphism-design-kit)
 * [Free Neomorphic UI Kit for Adobe Xd](https://www.behance.net/gallery/93347841/Free-Neomorphic-UI-Kit-for-Adobe-Xd)
 * [Neomorphic Travel UI Kit Free](https://dribbble.com/shots/10865220-Neomorphic-Travel-UI-Kit-Free)
+* [Free Neumorphic GUI Unicorn Style](https://dribbble.com/shots/11011222-Free-Neumorphic-GUI-Unicorn-Style-unicorn-UI-design)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
@@ -42,6 +43,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 ### Neumorphism Icons
 * [Neumorphism Free Icon Set](https://agentestudio.com/blog/neumorphism-icon-set)
 * [Neomorphism Emoji Icons](https://codepen.io/Partical/full/PoqBYdx)
+* [Icon Redesign](https://dribbble.com/shots/10953028-Icon-Redesign)
 
 ### More Resources
 * [Best Neumorphic Design Freebies](https://365webresources.com/neumorphic-neumorphism-design-freebies/)
