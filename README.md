@@ -31,6 +31,8 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Free Neomorphic UI Kit for Adobe Xd](https://www.behance.net/gallery/93347841/Free-Neomorphic-UI-Kit-for-Adobe-Xd)
 * [Neomorphic Travel UI Kit Free](https://dribbble.com/shots/10865220-Neomorphic-Travel-UI-Kit-Free)
 * [Free Neumorphic GUI Unicorn Style](https://dribbble.com/shots/11011222-Free-Neumorphic-GUI-Unicorn-Style-unicorn-UI-design)
+* [Neumorphism UI Elements](https://dribbble.com/shots/11116430-Neumorphism-UI-Elements)
+* [Neumorphism Mobile Payment UI Design](https://dribbble.com/shots/10875172-Neumorphism-Mobile-payment-Dark-elements)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
