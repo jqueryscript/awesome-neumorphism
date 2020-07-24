@@ -16,6 +16,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Skeuos CSS library](https://www.cssscript.com/neumorphism-ui-skeuos/)
 * [Neomorph UI Kit](https://codepen.io/miocene/pen/oNNOmza)
 * [NenmorphismCSS](https://www.cssscript.com/neumorphic-ui-framework/)
+* [Neumorphism UI Framework Based On Bootstrap 4](https://www.jqueryscript.net/other/neumorphism-ui-framework-bootstrap.html)
 
 ### UI Kits
 * [Neumorphism UI kit for Figma](https://www.behance.net/gallery/92714821/FREE-Neumorphism-UI-kit-for-Figma)
@@ -38,6 +39,9 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Neumorphism Mobile Payment UI Design](https://dribbble.com/shots/10875172-Neumorphism-Mobile-payment-Dark-elements)
 * [Google Neumorphism UI](https://dribbble.com/shots/11335378-Google-Neumorphism-UI)
 * [Neumorphism Smarthome Mobile UI](https://dribbble.com/shots/11332920-Neumorphism-Smarthome-Mobile-Concept)
+* [Cool Neumorphism UI Kit](https://dribbble.com/shots/11470185-Neumorphism-in-UI-Kit)
+* [Neumorphism UI Kit (3 Color Variables) Figma](https://dribbble.com/shots/11652074-FREE-Neumorphism-UI-Kit)
+* [FREE Neumorphic Elements Sketch File](https://dribbble.com/shots/11674839-FREE-Neumorphic-Elements-Sketch-File)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
