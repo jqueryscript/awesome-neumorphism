@@ -19,6 +19,10 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [Neumorphism UI Framework Based On Bootstrap 4](https://www.jqueryscript.net/other/neumorphism-ui-framework-bootstrap.html)
 
 ### UI Kits
+* [Neumorphism UI Kit Figma](https://www.behance.net/gallery/106636663/Neumorphism-UI-Kit)
+* [Neumorphism Dark UI KIT](https://www.behance.net/gallery/103752807/Neumorphism-dark-UI-KIT)
+* [Neumorphic Shadow UI Pack](https://dribbble.com/shots/14073749-Neumorphic-Shadow-UI-Pack)
+* [Minimal Neumorphism UI Kit](https://www.behance.net/gallery/102785727/Neumorphism-UI-kit)
 * [Neumorphism UI kit for Figma](https://www.behance.net/gallery/92714821/FREE-Neumorphism-UI-kit-for-Figma)
 * [Dashboard Interface Elements](https://dribbble.com/shots/10143929-Freebie-Dashboard-Interface-Elements)
 * [XD neumorphic app template](https://dribbble.com/shots/10114826-Free-XD-neumorphic-app-template)
