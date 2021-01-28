@@ -8,6 +8,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [react-native-neu-element](https://github.com/Jamyth/react-native-neu-element)
 * [Neumorphism UI Bootstrap CSS](https://github.com/themesberg/neumorphism-ui-bootstrap)
 * [UI-Neumorphism](https://github.com/AKAspanion/ui-neumorphism)
+* [NeumorphBootstrap](https://www.jqueryscript.net/other/neumorphic-ui-bootstrap.html)
 
 ### CSS UI Libraries
 * [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
