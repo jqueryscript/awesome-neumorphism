@@ -10,6 +10,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [UI-Neumorphism](https://github.com/AKAspanion/ui-neumorphism)
 * [NeumorphBootstrap](https://www.jqueryscript.net/other/neumorphic-ui-bootstrap.html)
 * [Elegant Neumorphism UI Kit](https://www.jqueryscript.net/other/neumorphism-ui-kit-theme.html)
+* [NEOMO](https://github.com/neomorphism/neomo)
 
 ### CSS UI Libraries
 * [neumorph.scss](https://github.com/ChemaAlfonso/neumorph.scss)
