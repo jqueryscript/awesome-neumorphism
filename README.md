@@ -51,6 +51,7 @@ Awesome list of Neumorphism UI (Soft UI, Neumorphic UI) Design resources.
 * [FREE Neumorphic Elements Sketch File](https://dribbble.com/shots/11674839-FREE-Neumorphic-Elements-Sketch-File)
 * [Free Neomorphism UI Kit XD](https://www.behance.net/gallery/110049191/Free-Neomorphism-UI-Kite)
 * [Neumorphic Light Elements For Figma](https://dribbble.com/shots/10538859-Freebie-Neumorphic-Skeuomorphic-Light-elements-Figma)
+* [Neumorphic Shadow UI Kit](https://www.figma.com/community/file/879613540635517375)
 
 ### Neumorphism Shadow Generator
 * [Soft UI CSS Shadow Generator](https://neumorphism.io/#55b9f3)
